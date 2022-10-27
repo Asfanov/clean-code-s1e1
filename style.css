@@ -37,6 +37,7 @@
 }
 .task-wrapper {
   display: flex;
+  padding: 20px;
 }
 ul {
   margin:0;
